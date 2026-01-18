@@ -27,6 +27,24 @@ The dataset will be publicly released on [Kaggle](coming soon).
   <em><strong>Fig.3</strong> Representative images of CJR dataset samples. <strong>Note:</strong> Red circles represents adults (longer length, presence of wings and the characteristic two black spots), and yellow represents nymphs (smaller size when compared to adults and absence of wings).</em>
 </p>
 
+## JassidNet Pipeline Overview
+<p align="center">
+  <img src="assets/JassidNet Pipeline Chart.png" width="800">
+  <br>
+  <em><strong>Fig.4</strong> Workflow overview of JessidNet. <strong>Note:</strong> Detector-guided/Text-Driven zero-shot segmentation function is highlighted in green dash box, pink dashed arrow indicates optional super-resolution enhancement function, purple dashed arrow indicates the branch of Detector-Guided Zero-Shot Segmentation function, blue dashed arrow indicates the optional branch of Text-Driven Zero-Shot Segmentation function.</em>
+</p>
+
+<p align="center">
+  <img src="assets/SJIMNet-O.png" width="800">
+  <br>
+  <em><strong>Fig.5</strong> Structural diagram of proposed Smart Jassid Inference and Monitoring Network (SJIMNet) and its key modules. <strong>Note:</strong> modified modules are highlighted by black wireframe.</em>
+</p>
+
+
+
+
+
+
 
 
 
