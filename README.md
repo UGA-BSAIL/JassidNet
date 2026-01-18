@@ -63,10 +63,15 @@ The dataset will be publicly released on [Kaggle](coming soon).
 ## Pretrained Weights
 The pretrained weights of **SJIMNet-O (*FP32*)** and **SJIMNet (*INT8*)** are provided in the `weights/` directory:
 
-- `SJIMNet-O_r2.pt`: Optimized model trained on the Cotton Jassid Recognition (CJR) dataset.
-- `
+- `SJIMNet-O.pt`: Optimized model trained on the Cotton Jassid Recognition (CJR) dataset.
+- `SJIMNet.pth`: Quantized customized model trained on the CJR dataset.
 
 These weights are intended for inference, visualization (e.g., Grad-CAM), and downstream biological analysis.
 
+## Getting Start
+See [**JassidNet Handbook: A Practical Guide for Field Data Collection, Detection, and Phenotyping of Cotton Jassids (*Amrasca biguttula*)**](coming soon).
 
-
+## Citation
+```bibtext
+JassidNet Paper: coming soon.....
+JassidNet Handbook: coming soon....
