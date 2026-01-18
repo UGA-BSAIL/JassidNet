@@ -40,10 +40,25 @@ The dataset will be publicly released on [Kaggle](coming soon).
   <em><strong>Fig.5</strong> Structural diagram of proposed Smart Jassid Inference and Monitoring Network (SJIMNet) and its key modules. <strong>Note:</strong> modified modules are highlighted by black wireframe.</em>
 </p>
 
+## Explainability and Qualitative Results
+<p align="center">
+  <img src="assets/GradCam_results.jpg" width="800">
+  <br>
+  <em><strong>Fig.6</strong> Feature response visualization of baseline model and the proposed SJIMNet-O under representative jassid densities scenarios: <strong>(a)</strong> low-density; <strong>(b)</strong> medium-density; <strong>(c)</strong> high-density.</em>
+</p>
 
+<p align="center">
+  <img src="assets/visualization cases.png" width="800">
+  <br>
+  <em><strong>Fig.7</strong> Representative visualization examples of JassidNet on External Test Set.</em>
+</p>
 
-
-
+## Biological and Breeding Applications
+<p align="center">
+  <img src="assets/Rplot-2-RF-1(HR).jpg" width="800">
+  <br>
+  <em><strong>Fig.8</strong> Weekly boxplots of jassid counts per leaf across five cotton genotypes in the first external test set (October 2025).</em>
+</p>
 
 
 
