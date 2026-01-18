@@ -7,6 +7,6 @@ This paper is under review on [***Industrial Crops and Products***](https://www.
 <p align="center">
   <img src="assets/statement.png" width="800">
   <br>
-  <em><strong>Fig.1<strong> Illustration of background complexity in field-acquired cotton leaf images and the target-specific focus of the proposed approach.</em>
+  <em><strong>Fig.1</strong>strong> Illustration of background complexity in field-acquired cotton leaf images and the target-specific focus of the proposed approach.</em>
 </p>
 
