@@ -20,7 +20,7 @@ This paper is under review on [***Industrial Crops and Products***](https://www.
 ## Dataset and Dataset Construction
 We propose a ***pseudo-label iteration–based dataset construction strategy*** and introduce the first vision dataset dedicated to cotton jassid recognition, termed the **Cotton Jassid Recognition (CJR) Dataset**.
 
-The dataset will be publicly released on [Kaggle](coming soon).
+The dataset will be publicly released on [Kaggle](https://www.kaggle.com/datasets/sweefongwong/cotton-jassid-recognition-cjr-dataset).
 
 <p align="center">
   <img src="assets/Pseudo-label iteration-based dataset construction pipeline chart.png" width="800">
