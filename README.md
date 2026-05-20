@@ -5,9 +5,9 @@ This paper is under review on [***Industrial Crops and Products***](https://www.
 
 ## Graphical Abstract
 <p align="center">
-  <img src="assets/statement.png" width="800">
+  <img src="assets/Graphical_Abstract.jpg" width="800">
   <br>
-  <em><strong>Fig.0</strong> Illustration of background complexity in field-acquired cotton leaf images and the target-specific focus of the proposed approach.</em>
+  <em><strong>Fig.0</strong> Graphical abstract of JassidNet paper.</em>
 </p>
 
 ## Problem Statement
