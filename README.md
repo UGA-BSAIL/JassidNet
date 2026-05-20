@@ -69,7 +69,7 @@ The pretrained weights of **SJIMNet-O (*FP32*)** and **SJIMNet (*INT8*)** are pr
 These weights are intended for inference, visualization (e.g., Grad-CAM), and downstream biological analysis.
 
 ## Getting Start
-See [**JassidNet Handbook: A Practical Guide for Field Data Collection, Detection, and Phenotyping of Cotton Jassids (*Amrasca biguttula*)**](coming soon).
+See [**JassidNet Handbook: A Practical Guide for Field Data Collection, Detection, and Phenotyping of Cotton Jassids (*Amrasca biguttula*)**](coming soon, will be released after acceptance).
 
 ## Citation
 ```bibtext
