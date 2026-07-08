@@ -80,7 +80,6 @@ See [**JassidNet Handbook: A Practical Guide for Field Data Collection, Detectio
 
 ## Citation
 ```bibtext
-JassidNet Paper:
 @article{wang2026jassidnet,
   title={JassidNet as a quantization-aware lightweight phenotyping framework for high-throughput cotton jassid (Amrasca biguttula) detection and counting toward objective resistance screening},
   author={Wang, Rui-Feng and Cui, Kangning and Schardong, Iago Beffart and Bauer, Matthew C and Somala, Rama Vamsi and Xu, Mingrui and West, Dalton and Jones, Donald C and Taylor, Sally V and Roberts, Phillip M and others},
@@ -90,4 +89,4 @@ JassidNet Paper:
   year={2026},
   publisher={Elsevier}
 }
-JassidNet Handbook: coming soon....
+
