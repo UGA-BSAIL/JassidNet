@@ -1,5 +1,5 @@
 # JassidNet
-The repository is for the papaer: **JassidNet: A Quantization-Aware Lightweight Phenotyping Framework for High-Throughput Cotton Jassid (*Amrasca biguttula*) Detection and Counting Toward Objective Resistance Screening**, including the code and dataset for reproducing.
+The repository is for the papaer: [**JassidNet: A Quantization-Aware Lightweight Phenotyping Framework for High-Throughput Cotton Jassid (*Amrasca biguttula*) Detection and Counting Toward Objective Resistance Screening**](https://www.sciencedirect.com/science/article/pii/S0926669026011039), including the code and dataset for reproducing.
 
 This paper is accepted by [***Industrial Crops and Products***](https://www.sciencedirect.com/journal/industrial-crops-and-products).
 
@@ -82,7 +82,7 @@ See [**JassidNet Handbook: A Practical Guide for Field Data Collection, Detectio
 ```bibtext
 @article{wang2026jassidnet,
   title={JassidNet as a quantization-aware lightweight phenotyping framework for high-throughput cotton jassid (Amrasca biguttula) detection and counting toward objective resistance screening},
-  author={Wang, Rui-Feng and Cui, Kangning and Schardong, Iago Beffart and Bauer, Matthew C and Somala, Rama Vamsi and Xu, Mingrui and West, Dalton and Jones, Donald C and Taylor, Sally V and Roberts, Phillip M and others},
+  author={Wang, Rui-Feng and Cui, Kangning and Schardong, Iago Beffart and Bauer, Matthew C and Somala, Rama Vamsi and Xu, Mingrui and West, Dalton and Jones, Donald C and Taylor, Sally V and Roberts, Phillip M and Li, Changying and Chee, Peng W.},
   journal={Industrial Crops and Products},
   volume={249},
   pages={123716},
